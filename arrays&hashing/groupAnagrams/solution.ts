@@ -1,8 +1,8 @@
 /**
  * n - number of strings
  * m - the length of the longest string
- * Time complexity: O(n): n * m * log(m)
- * Space complexity: O(n): n * m
+ * Time complexity: O( n * m * log(m))
+ * Space complexity: O(n*m)
  */
 
 /**
